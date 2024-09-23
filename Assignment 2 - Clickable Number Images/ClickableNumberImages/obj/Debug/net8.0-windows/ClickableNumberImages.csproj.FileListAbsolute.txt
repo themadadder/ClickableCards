@@ -1,0 +1,17 @@
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\bin\Debug\net8.0-windows\ClickableNumberImages.exe
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\bin\Debug\net8.0-windows\ClickableNumberImages.deps.json
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\bin\Debug\net8.0-windows\ClickableNumberImages.runtimeconfig.json
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\bin\Debug\net8.0-windows\ClickableNumberImages.dll
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\bin\Debug\net8.0-windows\ClickableNumberImages.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\ClickableNumberImages.Form1.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\ClickableNumberImages.Properties.Resources.resources
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\ClickableNumberImages.csproj.GenerateResource.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\ClickableNumberImages.GeneratedMSBuildEditorConfig.editorconfig
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\ClickableNumberImages.AssemblyInfoInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\ClickableNumberImages.AssemblyInfo.cs
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\ClickableNumberImages.csproj.CoreCompileInputs.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\ClickableNumberImages.dll
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\refint\ClickableNumberImages.dll
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\ClickableNumberImages.pdb
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\ClickableNumberImages.genruntimeconfig.cache
+B:\Users\Adam Malec\Desktop\CSCI Work\Assignment 2 - Clickable Number Images\ClickableNumberImages\obj\Debug\net8.0-windows\ref\ClickableNumberImages.dll
